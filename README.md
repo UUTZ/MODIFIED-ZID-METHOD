@@ -1,0 +1,1 @@
+ In this project, we aim to perform a comprehensive analysis of an existing zero-shot image dehazing method (ZID, https://ieeexplore.ieee.org/document/9170880) and proposed modifications to improve the original method. 
